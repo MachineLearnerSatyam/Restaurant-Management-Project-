@@ -1,2 +1,3 @@
-# Restaurant-Management-Project-
-TKinter , MySQL, Python 
+# Restaurant-Management-Project
+I MAKE THIS PROJECT BY USING PYTHON LANGUAGE AND TKINTER LIBRARY
+FOR DATABASE I USE MY SQL.
