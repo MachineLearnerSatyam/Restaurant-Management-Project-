@@ -1,7 +1,5 @@
-# Restaurant-Management-Project
-<br>
-<h2>PYTHON , TKINTER , MY SQL</h2>
- <br>
+# Restaurant-Management-Project<br>
+<h4>PYTHON , TKINTER , MY SQL</h4><br>
 I MAKE THIS PROJECT BY USING PYTHON LANGUAGE AND TKINTER LIBRARY
 <br>
 FOR DATABASE I USE MY SQL.
